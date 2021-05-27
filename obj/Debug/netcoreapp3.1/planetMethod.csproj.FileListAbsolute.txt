@@ -1,0 +1,13 @@
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\bin\Debug\netcoreapp3.1\planetMethod.exe
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\bin\Debug\netcoreapp3.1\planetMethod.deps.json
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\bin\Debug\netcoreapp3.1\planetMethod.runtimeconfig.json
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\bin\Debug\netcoreapp3.1\planetMethod.runtimeconfig.dev.json
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\bin\Debug\netcoreapp3.1\planetMethod.dll
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\bin\Debug\netcoreapp3.1\planetMethod.pdb
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\obj\Debug\netcoreapp3.1\planetMethod.csprojAssemblyReference.cache
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\obj\Debug\netcoreapp3.1\planetMethod.AssemblyInfoInputs.cache
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\obj\Debug\netcoreapp3.1\planetMethod.AssemblyInfo.cs
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\obj\Debug\netcoreapp3.1\planetMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\obj\Debug\netcoreapp3.1\planetMethod.dll
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\obj\Debug\netcoreapp3.1\planetMethod.pdb
+C:\Users\Ommmm\Documents\Projects\c# projects\planetMethod\obj\Debug\netcoreapp3.1\planetMethod.genruntimeconfig.cache
