@@ -4,7 +4,7 @@ namespace planetMethod
 {
     class Program
     {
-        static double traveler_years = 0;
+         static double traveler_years = 0;
         static double planet_age;
         static double earth_time = 31557600;
         static double earth_traveler_time = 631154000;
@@ -39,7 +39,7 @@ namespace planetMethod
             for (int i = 0; i < planet.Length; i++)
             {
                 double traveler_years = Math.Round(planet_age/age[i],3); 
-                Console.WriteLine("Earth age: " + Math.Round(traveler_years,3) + 
+                Console.WriteLine("Earth age: " + Math.Round(planet_age,3) + 
                 " Earth-years old- " + planet[i] + ": " + traveler_years + " Earth-years old");
             }
 
